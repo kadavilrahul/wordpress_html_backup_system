@@ -1,4 +1,4 @@
-# Website Backup Script
+# Website Backup Script (Subdomain has not worked correctly and postgres is not complete)
 
 This script automates the backup process for websites, supporting both WordPress and custom HTML sites. It includes special handling for PostgreSQL database backup and specific website directories.
 
